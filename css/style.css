@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    -ms-flex-align: center;
+    color:black;
+    background-color: lightblue;
+    margin-top: 100px;
+}
+
+img {
+    height: 350px;
+    width: auto;
+}
